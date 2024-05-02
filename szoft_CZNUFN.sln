@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5_het_Hajos_kviz", "5_het_H
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.het", "6.het\6.het.csproj", "{A89EA5E1-F0DE-40E1-A38C-A131C3F340B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_het", "7_het\7_het.csproj", "{52267CFD-EFE3-489A-BD5B-B378405ADC09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7_het", "7_het\7_het.csproj", "{52267CFD-EFE3-489A-BD5B-B378405ADC09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_het", "10_het\10_het.csproj", "{60550035-593A-4510-AE7A-DF6D3BCD2E39}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10het", "10het\10het.csproj", "{6320F351-C5DA-4D19-A0C4-5BDD109C3CDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{52267CFD-EFE3-489A-BD5B-B378405ADC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52267CFD-EFE3-489A-BD5B-B378405ADC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52267CFD-EFE3-489A-BD5B-B378405ADC09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60550035-593A-4510-AE7A-DF6D3BCD2E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60550035-593A-4510-AE7A-DF6D3BCD2E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60550035-593A-4510-AE7A-DF6D3BCD2E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60550035-593A-4510-AE7A-DF6D3BCD2E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6320F351-C5DA-4D19-A0C4-5BDD109C3CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6320F351-C5DA-4D19-A0C4-5BDD109C3CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6320F351-C5DA-4D19-A0C4-5BDD109C3CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6320F351-C5DA-4D19-A0C4-5BDD109C3CDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
